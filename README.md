@@ -11,7 +11,7 @@ Group activity to familiarize with git
 5. `git reset <filename>`
 6. `git commit -m "<descriptive message>"` - faizal made this change
 7. `git log`
-8. `git branch <branch name>`
+8. `git branch <branch name>` - faizal-feature branch
 9. `git checkout <branch name>`
 10. `git merge <branch name>`
 11. `git branch -d <branch name>`
