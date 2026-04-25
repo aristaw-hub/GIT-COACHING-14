@@ -24,6 +24,6 @@ Group activity to familiarize with git
 
 arista conflict
 -szekong
--faizal
 -Gina
+-faizal
 
