@@ -9,10 +9,12 @@ Group activity to familiarize with git
 3. `git diff` - show different between ?
 4. `git add <filename>` 
 5. `git reset <filename>`
-6. `git commit -m "<descriptive message>"`
+6. `git commit -m "<descriptive message>"` - faizal made this change
 7. `git log`
 8. `git branch <branch name>` - create branch
 9. `git checkout <branch name>` - the traddition of switch 
+8. `git branch <branch name>` - faizal-feature branch
+9. `git checkout <branch name>`
 10. `git merge <branch name>`
 11. `git branch -d <branch name>`
 
@@ -20,5 +22,8 @@ Group activity to familiarize with git
 - <alias of developer>
 -indy
 
+arista conflict
 -szekong
+-faizal
+-Gina
 
