@@ -13,6 +13,8 @@ Group activity to familiarize with git
 7. `git log`
 8. `git branch <branch name>` - create branch
 9. `git checkout <branch name>` - the traddition of switch 
+8. `git branch <branch name>` - faizal-feature branch
+9. `git checkout <branch name>`
 10. `git merge <branch name>`
 11. `git branch -d <branch name>`
 
@@ -22,7 +24,7 @@ Group activity to familiarize with git
 
 arista conflict
 -szekong
--faizal
 -Gina
+-faizal
 
 test approval 123
