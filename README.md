@@ -18,3 +18,4 @@ Group activity to familiarize with git
 
 # Code Contributors
 - <alias of developer>
+-indy
